@@ -18,8 +18,8 @@ Zbudowane na **Symfony 7.4 i PHP 8.4**, zwraca kursy kupna i sprzedaży dla EUR,
 Skopiuj plik środowiskowy:
 
 ```bash
-git clone <repo-url>
-cd nbp_api
+git clone https://github.com/FrontMaybeBackend/ovolt.git
+cd ovolt
 cp .env.example .env
 composer install
 ```
